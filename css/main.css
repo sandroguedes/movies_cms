@@ -1,0 +1,14 @@
+button {
+    text-decoration:none;
+    font-family:sans-serif;
+    padding:5px;
+    border-radius:5px;
+}
+
+a {
+    text-decoration:none;
+}
+
+h1 {
+    font-family:sans-serif;
+}
